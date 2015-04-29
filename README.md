@@ -13,6 +13,7 @@ Below are block diagrams of the circuit:
 * Photosensor Subcircuit:
 ![Photosensor Subcircuit]
 (http://i.imgur.com/q8v7dK2.png)
+
 * Speaker Subcircuit:
 ![Speaker Subcircuit]
 (http://i.imgur.com/TYoAbEQ.png)
