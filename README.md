@@ -9,4 +9,21 @@ Features:
 
 Circuit and Arduino files are present in this repository.
 
-Below are photos of the car:
+Below are block diagrams of the circuit:
+* Photosensor Subcircuit:
+![Photosensor Subcircuit]
+(http://i.imgur.com/q8v7dK2.png)
+* Speaker Subcircuit:
+![Speaker Subcircuit]
+(http://i.imgur.com/TYoAbEQ.png)
+
+Below is the overall circuit schematic of the circuit:
+![Circuit Schematic]
+(http://i.imgur.com/bbJDV3r.png)
+
+Below are pictures of the completed vehicle:
+![Picture of Car #1]
+(http://i.imgur.com/D1KpavU.jpg)
+
+![Picture of Car #2]
+(http://i.imgur.com/c2Tz4hP.jpg)
