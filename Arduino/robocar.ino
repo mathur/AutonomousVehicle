@@ -46,9 +46,6 @@ void setup()
 
 void loop()
 {
-  analogWrite(leftMotor, leftSpeed);
-  analogWrite(rightMotor, rightSpeed);
-
   lightValue = analogRead(lightSensor);
 
   // Serial.print("Analog reading = ");
