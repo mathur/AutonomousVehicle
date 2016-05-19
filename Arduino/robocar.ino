@@ -48,9 +48,6 @@ void loop()
 {
   lightValue = analogRead(lightSensor);
 
-  // Serial.print("Analog reading = ");
-  // Serial.print(lightValue);
-
   if ((lightValue - baseLightValue) > THRESHOLD) {
     analogWrite(leftMotor, leftSpeed);
     analogWrite(rightMotor, rightSpeed);
